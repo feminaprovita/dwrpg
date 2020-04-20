@@ -3,9 +3,15 @@ const seed = require('./seed')
 const getRandomInt = max => Math.floor(Math.random() * Math.floor(max))
 
 const randomLetter = () => {
-  const asciiLow = 65;
+  const asciiLow = 65
   const asciiHigh = 90
-  let randomAscii = Math.floor((Math.random() * (asciiHigh - asciiLow)) + asciiLow);
+  let randomAscii = Math.floor((Math.random() * (asciiHigh - asciiLow)) + asciiLow)
+
+// comment in the lines immediately below to remove QUVXYZ, as in the original game
+  /* const forbiddenLetters = [81, 85, 86, 88, 89, 90]
+  while(forbiddenLetters.includes(randomAscii)) {
+    randomAscii = Math.floor((Math.random() * (asciiHigh - asciiLow)) + asciiLow)
+  } */
   return String.fromCharCode(randomAscii)
 }
 
