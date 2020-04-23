@@ -1,5 +1,6 @@
 const seed = require('./seed')
 
+
 const getRandomInt = max => Math.floor(Math.random() * Math.floor(max))
 
 const randomLetter = () => {
@@ -20,12 +21,18 @@ let thisRound = randomLetter()
 console.log(' ')
 console.log(`~* ${thisRound} *~`)
 
+// this will hold the indexes of the categories already used in this round
+const game = []
+
 // for each, selects and prints a randomly selected category (numbered)
 const playGame = num => {
   let rand
   for(let i = 1; i <= num; i++) {
     rand = getRandomInt(seed.length)
-    console.log(`${i}. ${seed[rand]}`)
+    if(!game.includes(i)) {
+      console.log(`${i}. ${seed[rand]}`)
+      game.push(i)
+    } else rand = getRandomInt(seed.length)
   }
 }
 
