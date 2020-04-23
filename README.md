@@ -3,7 +3,7 @@ Just a simple script for printing a dozen DIY Scattergories categories to the te
 
 Seed file includes official Scattergories categories, as well as numerous random
 ones. I encourage you, on your local system, to to edit `seed.js` with things particular
-to your family/group (mine are tagged `// this is specific to my family!`).
+to your family/group (mine are at the bottom, commented out below `// my family categories`).
 
 Designed for screenshare on family zoom calls.
 

@@ -5,7 +5,6 @@ module.exports = ["4-letter words",
 "Acronyms",
 "Airlines",
 "Alcoholic beverage",
-"Alpaca facts", // this is specific to my family!
 "Alternative profanity",
 "Animal noises",
 "Animals",
@@ -218,7 +217,6 @@ module.exports = ["4-letter words",
 "Something animated",
 "Something found at a theme park",
 "Something in a backpack",
-"Something in Mom-Mom's house", // this is specific to my family!
 "Something loud",
 "Something people are afraid of",
 "Something you can barbeque",
@@ -352,4 +350,8 @@ module.exports = ["4-letter words",
 "Words ending in “-n”",
 "Words with double letters",
 "World leaders / politicians",
-"World records"]
+"World records",
+/* // my family categories
+"Alpaca facts",
+"Something in Mom-Mom's house", */
+]
