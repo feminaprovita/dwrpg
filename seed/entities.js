@@ -1,0 +1,13 @@
+module.exports = ["The ancestors of their lineage",
+"Minor gods who are the special protectors of a particular lineage/family",
+"The fey",
+"Elves",
+"Foreigners whose visit two generation ago is still misremembered as a visit from the gods",
+"Steelclaw the Cruel",
+"girallon",
+"manticore",
+"a well that shouldn't have water because the stream dried up years ago, but always has water",
+"Mage living among them, a charlatan",
+"Town founder (a noble spirit embiggens the smallest man)",
+"Some magic item tbd",
+"a notable nearby tree"]

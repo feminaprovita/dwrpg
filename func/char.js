@@ -12,7 +12,7 @@ const char = []
 // for each round, selects and prints a randomly selected question (numbered)
 const interrogateCharacter = num => {
   let rand
-  for(let i = 1; i <= num; i++) {
+  for(let i = 0; i <= num; i++) {
     rand = getRandomInt(questions.length)
     if(!char.includes(i)) {
       console.log(`${i}. ${questions[rand]}`)
