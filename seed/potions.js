@@ -12,5 +12,5 @@ module.exports = [
   "cantrip: detect alignment",
   "cantrip: cure light wounds (1d8)",
   "cantrip: speak with dead (3 questions)",
-  ""
+  "antitoxin (labeled)"
 ]
