@@ -28,7 +28,7 @@ module.exports = ["One very hungry troll. It speaks Common and demands food from
 "A local ranger gives the party directions to their next destination, shortening their journey.",
 "A merchant wanders by, wants to trade: Basic adventuring equipment.",
 "A merchant wanders by, wants to trade: Five healing potions, 30gp each.",
-"A merchant wanders by, wants to trade: All manner of potions (mostly unlabeled), 40gp each or 4 for 45gp. Change race (GM's randomizer), grow taller, grow beard, hair turns to feathers, grow scales on torso (armor +1), eyes become segmented bug eyes, inspiration*, stoneskin, healing*, rage* (details tbd). *labeled",
+"A merchant wanders by, wants to trade: All manner of potions (mostly unlabeled), 40gp each or 4 for 45gp. Randomize for selection",
 "A merchant wanders by, wants to trade: Studded leather armor and basic weapons.",
 "A local wanders by, wants to trade: Wood.",
 "A local wanders by, wants to trade. Only useful item for sale is a healing potion, 25gp.",
@@ -156,4 +156,17 @@ module.exports = ["One very hungry troll. It speaks Common and demands food from
 "The party encounters foppish dandy and 1d4 sycophants. Any rude remarks will give offense, of course. They will seek revenge by causing trouble for the party with officials.",
 "The party encounters a hauty gentlewoman. Any rude remarks will give offense, of course, and she will send a champion to defend her honor (after leaving the conversation in a huff).",
 "The party encounters well-dressed fighter-types of 7th to 10th level (d4 + 6) with 1d4 friends of the same abilities. Any rude remarks will give offense, of course. Fighters will challenge the offenders.",
-"Pilgrim encounters are typically with 3-12 persons upon a journey to some religious or other important destination. For every 4 pilgrims there will be 1 of unusual type (cleric, fighter, etc.). As pilgrims are often nondescript, they are often mistaken for other groups (bandits, laborers, etc.)."]
+"Pilgrim encounters are typically with 3-12 persons upon a journey to some religious or other important destination. For every 4 pilgrims there will be 1 of unusual type (cleric, fighter, etc.). As pilgrims are often nondescript, they are often mistaken for other groups (bandits, laborers, etc.).",
+"The party sees a small goblin tied up in a clearing on a tarp. If they attempt a rescue, attacked by the 1d4 bugbears lying in wait to rob them.",
+"1d4 very old men pushing a wheelbarrow of random junk. They're happy to offer to trade. They have absolutely nothing of value.",
+"The party comes to a crossroads. There is a bard playing some indigenous drums. Bard offers to teach them to play; if they accept, afterward he gives them a vision of what's ahead on each path (so they can make an informed choice).",
+
+
+
+
+
+
+
+
+
+]

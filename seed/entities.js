@@ -10,4 +10,6 @@ module.exports = ["The ancestors of their lineage",
 "Mage living among them, a charlatan",
 "Town founder (a noble spirit embiggens the smallest man)",
 "Some magic item tbd",
-"a notable nearby tree"]
+"a notable nearby tree",
+"god of beer/drunkenness",
+"Yanoa herself"]

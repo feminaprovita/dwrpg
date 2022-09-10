@@ -1,0 +1,23 @@
+module.exports = [
+  "Nearest sounded alarm goes off",
+  "Grow trees right around caster",
+  "Create much more water than intended",
+  "Cone of silence",
+  "Caster glows with faint aura",
+  "Potion effects",
+  "Hair changes color",
+  "Skin changes color",
+  "Zapped by static shock",
+  "Turned into animal (can still talk) until after next rest",
+  "Person you're trying to fool or impress gets to ask you one quotation that you must answer honestly",
+  "Nearest tree comes alive and whacks you",
+  "Change race (GM's randomizer)",
+  "grow taller",
+  "grow beard",
+  "hair turns to feathers",
+  "grow scales on torso (armor +1)",
+  "eyes become segmented bug eyes",
+  "stoneskin",
+  "healing (labeled)",
+  "instant rage (details tbd) (labeled)"
+]

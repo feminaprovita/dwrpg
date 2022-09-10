@@ -11,4 +11,4 @@ module.exports = ["Funerary",
 "Founding day",
 "Anniversary of great victory",
 "In preparation of felling a great tree",
-]
+"In petition for fertility"]
