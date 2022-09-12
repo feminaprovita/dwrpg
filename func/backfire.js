@@ -1,4 +1,4 @@
-const backfires = require('../seed/magic-backfires')
+const backfires = require('../seed/revenge')
 
 // simple randomizer
 const getRandomInt = max => Math.floor(Math.random() * Math.floor(max))
