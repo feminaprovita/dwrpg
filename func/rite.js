@@ -1,9 +1,9 @@
-const occasions = require('../seed/occasions')
-const natures = require('../seed/natures')
-const lengths = require('../seed/lengths')
-const values = require('../seed/values')
-// once for propitious, once for taboo, not the same
-const entities = require('../seed/entities')
+const occasions = require('../seed/festival-occasions')
+const natures = require('../seed/festival-natures')
+const lengths = require('../seed/festival-lengths')
+const values = require('../seed/festival-values')
+// used once for propitious, again for taboo
+const entities = require('../seed/festival-entities')
 
 
 // simple randomizer

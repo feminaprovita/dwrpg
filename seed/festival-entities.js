@@ -12,4 +12,5 @@ module.exports = ["The ancestors of their lineage",
 "Some magic item tbd",
 "a notable nearby tree",
 "god of beer/drunkenness",
-"Yanoa herself"]
+"Yanoa herself",
+"a local oracle who's been protesting their mortality for decades, to no avail"]

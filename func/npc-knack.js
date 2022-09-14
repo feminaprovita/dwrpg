@@ -1,4 +1,4 @@
-const knacks = require('../seed/knacks')
+const knacks = require('../seed/npc-knacks')
 
 // simple randomizer
 const getRandomInt = max => Math.floor(Math.random() * Math.floor(max))

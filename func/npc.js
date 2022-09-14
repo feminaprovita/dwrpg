@@ -1,10 +1,11 @@
 const namesFirst = require('../seed/namesFirst')
 const namesLast = require('../seed/namesLast')
-const instincts = require('../seed/instincts')
-const knacks = require('../seed/knacks')
-const species = require('../seed/species')
-const aspects = require('../seed/aspects')
-const voices = require('../seed/voices')
+const instincts = require('../seed/npc-instincts')
+const knacks = require('../seed/npc-knacks')
+const species = require('../seed/npc-species')
+const trait = require('../seed/npc-traits')
+const aspects = require('../seed/npc-aspects')
+const voices = require('../seed/npc-voices')
 const questions = require('../seed/questions')
 
 // simple randomizer
@@ -18,6 +19,7 @@ const generateNpc = () => {
         namesFirst[getRandomInt(namesFirst.length)] + ' ' +
         namesLast[getRandomInt(namesLast.length)]
     npc.species = species[getRandomInt(species.length)]
+    npc.trait = trait[getRandomInt(trait.length)]
     npc.voice = voices[getRandomInt(voices.length)]
     npc.aspect = aspects[getRandomInt(aspects.length)]
     npc.instinct = instincts[getRandomInt(instincts.length)]

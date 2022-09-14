@@ -1,4 +1,4 @@
-const aspects = require('../seed/aspects')
+const aspects = require('../seed/npc-aspects')
 
 // simple randomizer
 const getRandomInt = max => Math.floor(Math.random() * Math.floor(max))

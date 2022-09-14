@@ -29,13 +29,44 @@ module.exports = ["A druid is in a field hosting a planting/farming class to pro
 "The party encounters a hauty gentlewoman. Any rude remarks will give offense, of course, and she will send a champion to defend her honor (after leaving the conversation in a huff).",
 "The party encounters well-dressed fighter-types of 7th to 10th level (d4 + 6) with 1d4 friends of the same abilities. Any rude remarks will give offense, of course. Fighters will challenge the offenders.",
 "The party chances upon a little old lady who requests their help to feed 'all her animals.; When they arrive, her 'animals' are all domesticated monsters: cockatrice, displacer beast, dire rat, gelatinous cube, ghoul, razor boar, worg, manticore, owlbear, naga (serpent), basilisk......... 'Don't mind Frank. He's just cranky because I ran out of the food with the gravy.' -Old Lady comment about the displacer beast stalking you around the barn, like it's some kind of large house cat and not a scary monster with scary teeth",
-
-
-
-
-
-
-
-
+"It's the City-wide Bake off! Rival bakers come to test their baking skills. Cookies and sweets abound.",
+"The city's annual combat tournament begins in [1d6+2] days. Anyone may enter, but no weapons of any kind or spells are allowed. It is held in a dirt floor arena behind the market square.",
+"A building the players visit will burn to the ground in [1d3] days. [1d6+1] adjacent buildings will also perish in the towering inferno. Everyone burns to death unless the players intervene.",
+"A group of adventurers are causing chaos in the town. The guards are alert and put on edge due to them. The PCs can stop them for a hefty reward.",
+"Some miscreant has opened the city’s aviary, and now there’s a storm of birds all around the city so thick it is disturbing market business city-wide.",
+"In [x] days, an estate auction takes place. The deceased was an (1. alchemist / 2. artificer / 3. collector of the unusual / 4. ex-adventurer / 5. explorer / 6. inventor, mage)",
+"In [x] days, a herd of animals (cows, goats, pigs, sheep) escapes from the market and runs amuck in the city. If not stopped, random animal event for 1d6 days, every few hours roll 1-2 amusing animal mischief, 3-4 injury caused by animal, 5-6 property damage caused by animal.",
+"There is billowing smoke in the distance, but if investigated, there is no fire. Instead, an alchemist has gotten a little too eager and mixed dangerous chemicals. He's still inside the shop where the smoke is billowing from, and will die if not rescued...",
+"The alleged leader of the local thieves' guild has finally been caught, and being made a public example of... though he insists it's a case of mistaken identity.",
+"An incredibly rich businessman is giving away all of his wealth. Citizens are wondering what could cause him to have such a change of heart.",
+"People are going missing in the poorer districts of the city. Whispers abound of a man-sized beast that drags people off in the night...",
+"There's a crazed monster on the loose, that likes to run across rooftops and jump on folks in the dead of night, or so the rumors say. Rumor or not- the city guard is imposing a curfew tonight: nobody in the streets after dark.",
+"The wishing ponds in the city overflow slightly every day, and in [1d4+2] days the coins that were there rain down in the city (causing some injuries and some lucky people getting some money).",
+"It's the day of the Inventor's Faire, which goes on for [2d4] days. Artificers will come from near and far to show off, win awards, and make some sales. Mishaps and explosions are discouraged, but expected by the public.",
+"A cheerful Halfling is giving lucky coins to everyone who listens to its story. The story changes for everyone, since the Halfling is a deity trying to inspire and help people who will need it to survive a future tragedy.",
+"A long famous restaurant is closing since the owner “has no more inspiration.” It'll be selling food one last time in [1d4] days, and some lucky customers will receive one of its secret famous recipes! The lines are expected to be ridiculous.",
+"A prankster has started throwing illusions all over the city. Doors, manholes, and other such items are turning out to be illusory quite often as a result. The city watch is on constant guard for the perpetrator and will often poke and touch objects they're suspicious of while on duty.",
+"A noble invites the players to a house party. The noble, a female Dwarf named Bronsyl, wants the party to pretend they are her friends to impress the other nobles at the party.",
+"A child with an obvious injury begging for money pleads to the party for money. Later that day the party sees the same kid running around playing tag.",
+"A terrified ex-Warlock begs the party for help, their old patron sends shadow mastiffs after them every night to kill them. They have not slept in days. Killing the hounds doesn't stop them coming back the next night.",
+"A wealthy merchant offers to pay one of the PC to be the target of a special spell then get them selves arrested so that they can pass the spell effects to another prisoner. The merchant says they will also pay whatever the bail is, but will actually only pay up to 10gp.",
+"Two philosophers are having a debate by a street corner. They loudly discuss what does or doesn't constitute a 'Sandwich'. As the group walks by, the older of the two waves you over and asks your opinions on the matter.",
+"Some young men have stolen a large keg of what they think is ale. They are pushing it laboriously up a steep hill, joking and grunting from the effort. A few minutes later a frantic alchemist can be seen running around asking if anyone has seen a barrel of Alchemists Fire that has disappeared.",
+"A pair of wagon drivers are preparing to race down the main street of the town. The street has been mostly cleared, although clearly by local gangs rather than any legitimate authority. There is a large amount of betting going on about who is going to win.",
+"Two competing chefs want an impartial judge to decide whose creation is more delicious.",
+"The beasts of burden (can be horses, griffins, drakes, whatever) pulling a carriage have gotten spooked or agitated by nothing in particular, and the driver can't get them back under control.",
+"After the players walk by an open door in the city, on an abandoned street, a player with a Very high passive perception barely sees a tentacles reach out and close the door quietly after they pass. It's the house of a former Warlock and after she died the house has remained sentient and... tentacled. Quite friendly, if shy and full of disturbing stories.",
+"Some obvious mobsters want to throw a surprise party for their Boss, but there is ZERO chance this won't lead to a surprising amount of bloodshed so they need to hire some DURABLE people to handle the first few rounds after yelling SURPRISE!",
+"City Guard is inspecting the feet of anyone who comes into town, assisted by a terrified looking academic. On the shoes of the lowest INT player is a Bookworm, that literally eats magical books. This player is arrested by a previously unknown Library Police and made to stand trial for their crimes against education and learning. ONE PC may act as their barrister. One unbelievably nerdy trial later and the fine turns out to be something like 42cp, a fixed price and obviously a nerdy inside joke of some sort.",
+"A market vendor forces a large lizard with a hood over its head into a PCs hands, and says, 'Finally, take this thing and deliver it to the tower. It might be dangerous so don't take off the hood.' Before he disappears from sight.",
+"The PC with the most languages notices that the laundry drying on twine in the alley spells a secret message asking for help, when looked at a particular way. Turns out an academic has been kidnapped and used as a laundress, but was previously a linguist and used her skill to try and find help.",
+"A caricature artist is overly insistent that you let them draw you.",
+"A company has organized a giant scavenger hunt throughout the city. Anyone can participate.",
+"A man barges in to the tavern the party is staying at, shouting and accusing the owner of stealing his secret recipe.",
+"A herd of cats have overrun the armory. The guard captain demands no harm come to them, but wishes them removed, concerned they might hurt themselves on the arms inside or an annoyed watchman.",
+"A trio of goblins on each others shoulders, poorly disguised as a dragonborn (with papier-mâché head and tail) are attempting sell a variety of pies for 1 silver each. The pies are quite good and the goblins intend no harm, they however believe they are getting a great deal and will refuse to disclose the contents of the pies, quoting it's a trade secret.",
+"A well-dressed young man spontaneously combusts in the middle of the road. No one else seems to notice.",
+"A wealthy debutante has decided to leave her wealth behind and begin adventuring, and throws one last soiree before giving away her wealth. The PCs are invited.",
+"There is a game of (sport) going on in one of the cul-de-sacs as the Party passes by. The Party hears someone call out to them, they need extra players for each side.",
 // "The party uncovers a mini-unicorn fighting ring just outside of town. If they interfere.......",
 ]

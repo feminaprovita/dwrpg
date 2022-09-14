@@ -25,4 +25,10 @@ module.exports = ["Orgy",
 "Nakedness",
 "Mystery play",
 "Tattooing",
-"Shaving all hair"]
+"Shaving all hair",
+"Elaborate costumes",
+"Pranks",
+"Parade",
+"Light mini lanterns that float up into the sky",
+"Ritual washing"
+]
