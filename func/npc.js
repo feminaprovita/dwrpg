@@ -20,10 +20,10 @@ const generateNpc = () => {
         namesLast[getRandomInt(namesLast.length)]
     npc.species = species[getRandomInt(species.length)]
     npc.trait = trait[getRandomInt(trait.length)]
-    npc.voice = voices[getRandomInt(voices.length)]
-    npc.aspect = aspects[getRandomInt(aspects.length)]
     npc.instinct = instincts[getRandomInt(instincts.length)]
     npc.knack = knacks[getRandomInt(knacks.length)]
+    npc.aspect = aspects[getRandomInt(aspects.length)]
+    npc.voice = voices[getRandomInt(voices.length)]
     npc.question = questions[getRandomInt(questions.length)]
 }
 
