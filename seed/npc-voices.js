@@ -54,7 +54,7 @@ module.exports = [
   "voice husky / hoarse",
   "uses very few / minimum words",
   // "speaks too quietly",
-  "ghost of Xmas present (a large absent-minded spirit)",
+  // "ghost of Xmas present (a large absent-minded spirit)",
   "drops names (Tahani)",
   "drops names (like my sister always says...)",
   "forgets thread mid-story",

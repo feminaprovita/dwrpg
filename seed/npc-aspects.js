@@ -83,4 +83,5 @@ module.exports = ["belligerent",
   "Reckless",
   "Stubborn",
   "Senile",
-  "Beleaguered"]
+  "Beleaguered",
+  "Incompetent yet confident"]

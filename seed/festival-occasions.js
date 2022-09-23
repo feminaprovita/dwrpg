@@ -13,11 +13,10 @@ module.exports = ["Funerary",
 "In preparation of felling a great tree",
 "In petition for fertility",
 "A local priest has miraculously saved the life of a child. A feast is being held in his honor tomorrow night.",
-
-"",
-"",
-"",
-"",
-"",
+"In petition for [particular weather]",
+// "",
+// "",
+// "",
+// "",
 
 ]

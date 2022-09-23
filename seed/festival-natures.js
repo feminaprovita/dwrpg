@@ -30,5 +30,9 @@ module.exports = ["Orgy",
 "Pranks",
 "Parade",
 "Light mini lanterns that float up into the sky",
-"Ritual washing"
+"Ritual washing",
+"Gambling",
+"Creation of art",
+"Music (jammin')",
+"Sport"
 ]

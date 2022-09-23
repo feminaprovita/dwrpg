@@ -615,4 +615,6 @@
   "Adventure Tours - Will teleport people to places like undersea ships they have made breathable and give interactive tours",
   "Curse Delivery Service - Do you really hate someone? Send them an item imbued with a minor curse! Try some of our favorites including incessant screaming inside of their head, a curse to make every food taste like something the recipient hates, and many more.",
   "Snilloc's Cold Storage - these ice wizards will keep your meat cold until you can sell it. Gentle repose is a specialty of theirs.",
-  "Locksmiths - Need an arcane lock on your door? Need an alarm on your entrance hall? Need a glyph of warding on your safe? These wizards have got you covered."]
+  "Locksmiths - Need an arcane lock on your door? Need an alarm on your entrance hall? Need a glyph of warding on your safe? These wizards have got you covered.",
+  "Of course someone's selling that fancy oil the adventurers guild requires registration for, let you cut through the mountains...",
+  "Exotic meats"]
