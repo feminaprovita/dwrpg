@@ -13,4 +13,5 @@ module.exports = ["The ancestors of their lineage",
 "a notable nearby tree",
 "god of beer/drunkenness",
 "Yanoa herself",
+"god of pain",
 "a local oracle who's been protesting their mortality for decades, to no avail"]

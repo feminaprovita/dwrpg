@@ -67,4 +67,9 @@ module.exports = [
   "lots of ummm, uhhh, well (filler words)",
   // "uses sound effects in place of words",
   "matter-of-fact",
+  "French taunters",
+  "mild drawl",
+  "billy butcher",
+  "Minnesotan",
+  "Old Brooklyn",
   "monotone"]
