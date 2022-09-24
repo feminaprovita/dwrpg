@@ -53,7 +53,6 @@ module.exports = [
   "Balloons and darts: Every balloon purchase also comes with darts. You can get transport on a hot air balloon and tons of darts. Balloon animals and dart animals. Buy a balloon (and dart!) and get a balloon (and dart!) free! [On walking out, the dart is thrown at the balloon].",
   "Rosewaters: Sells tinctures of water. Rose water, holy water, filtered water, spring water, toilet water, alcohol water, etc.",
   "Lukas's Lucky Oddities: At the start of each day, Lukas rolls twice on the trinket table and chooses one trinket. He must sell it for an exorbitant price before dusk. Such is his curse.",
-
   "Mira's Oozes: A pet store of sorts filled with living oozes of all colors stored in jars. Run by a young and naive sorceress who insists that the oozes are harmless when properly handled.",
   "Temple of the Tiny: A quaint little store stocked with holy symbols and other religious merchandise, all marketed towards children.",
   "Clifford's Catastrophic Candys: a candy shop that only sells empty bags that fill with either just the treat you want or something utterly disgusting once you get hungry. You must eat what appears before it fills again.",
@@ -142,7 +141,7 @@ module.exports = [
   "Divine Winds Acupuncture and Massage, a parlor that focuses on healing and enhancing the body by channeling the ambient magics of the world through key points in the body.",
   "Clothing mender uses magic to repair and tailor clothes.",
   "Translation service using Comprehend Languages. They literally trade you the book for another one that you can actually read. For a small fee of course.",
-  "Anti- Surveillance/ Security - Magical surveillance can be a nuisance. This Private Mercenary Group doesn't fight for you but will design and install methods of keeping your home safe from Scrying, Divining magics, and intruders.",
+  "Anti-Surveillance/ Security - Magical surveillance can be a nuisance. This Private Mercenary Group doesn't fight for you but will design and install methods of keeping your home safe from Scrying, Divining magics, and intruders.",
   "Last Chances - For the exceedingly wealthy, 1000 gp is a drop in the bucket. Why not spend it keeping yourself safe? For the cost of the components and a small fee, we cast Contingency, keyed to whatever spell you want!",
   "Twendel's Traveling Travel Agency - A wizard named Twendel travels around on foot to various towns bringing along with them a box full of vacations in a jar. After paying a small fee the client picks out a jar, each jar having its own terrain and what level of difficulty they would like their vacation to have. The wizard then shrinks down the clients, places them in the jar and after a predetermined set of time releases them from the jar either having enjoyed a relaxing vacation in a tropical paradise or battled their way through an orcish stronghold to claim useful artifacts. Based on the difficulty of the jar the price increases but the wizard also stocks the more difficult jars with better loot.",
   "Sending House - A large building, full is Stones of Sending that each go to different cities, acting as a relay, will send a message for a small fee.",

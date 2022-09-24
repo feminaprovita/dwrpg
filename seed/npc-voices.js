@@ -72,4 +72,5 @@ module.exports = [
   "billy butcher",
   "Minnesotan",
   "Old Brooklyn",
+  "Tom Exposition",
   "monotone"]

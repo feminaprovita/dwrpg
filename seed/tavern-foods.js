@@ -1,5 +1,5 @@
 module.exports = [
-  "One of the local hunters haulded in a big buck, so we're having venison stew.",
+"One of the local hunters haulded in a big buck, so we're having venison stew.",
 "Darkmantle soufflé, with hollandaise sauce and a fried egg on top.",
 "Griffin shanks, with secret sauce BBQ.",
 "Pseudodragon on a stick.",

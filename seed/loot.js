@@ -45,4 +45,21 @@ module.exports = [
   "The Sterling Hand. 0 weight. Magic. Crafted by dwarven whitesmiths, this mirrored-metal hand is deeply scored with runes of power and rejuvenation. Meant to replace wounded or destroyed limbs from mining accidents, the Sterling Hand bonds to the wound, old or new, and is strong and stout. It can be used as a weapon (Near range) and is made of pure enough silver to harm creatures affected by such.",
   "Vellius’s Gauntlets. 1 weight. Magic. Crafted in the name of Vellius the Clumsy (aka Vellius the Butter-Fingered, Vellius the Clod), these gloves of simple cloth prevent you from dropping any object you don’t intent to. You cannot be disarmed and will not fall from any rope or ladder, for example. This item can get very messy if you have something strong pulling at your legs while you grip onto something solid.",
   "Violation Glaive. Reach, 2 weight. Magic. A legendary blade, said to have been thrust backwards in time from some grim future, the violation glaive is crafted of strange green iron. The blade strikes at the mind of those it wounds, as well as the body. When you hack and slash on a 10+ you have an additional option: you can deal your normal damage, let them counterattack you, and instill the emotion of your choice (e.g., fear, reverence, trust).",
-  "Vorpal Sword. Close, 3 piercing, 2 weight. Magic. Snicker-snack and all that. Sharp as anything, this simple-seeming sword means to separate one thing from another -— the limb from the body, folk from their lives... When you deal damage with the Vorpal Sword, your enemy must choose something (an item, an advantage, a limb) and lose it, permanently."]
+  "Vorpal Sword. Close, 3 piercing, 2 weight. Magic. Snicker-snack and all that. Sharp as anything, this simple-seeming sword means to separate one thing from another -— the limb from the body, folk from their lives... When you deal damage with the Vorpal Sword, your enemy must choose something (an item, an advantage, a limb) and lose it, permanently.",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
