@@ -1,4 +1,4 @@
-const instincts = require('../seed/instincts')
+const instincts = require('../seed/npc-instincts')
 
 // simple randomizer
 const getRandomInt = max => Math.floor(Math.random() * Math.floor(max))

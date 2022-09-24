@@ -3,10 +3,10 @@ module.exports = [
   name: 'Damari Longflame',
   race: 'half-elf',
   pronouns: 'she/her',
-  title: '',
+  title: 'Guardian',
   class: 'mage, wizard',
   description: '',
-  trait: '',
+  trait: 'distinctive tattoos (magical)',
   instinct: 'to protect the world, even after she\'s gone',
   knack: 'unique wizardry',
   aspect: 'always complaining about the weather (vs home in Bloodthorn Forest)',
@@ -118,7 +118,7 @@ module.exports = [
   title: 'Mrs',
   class: '',
   description: 'from a long line of dwarven alewives. Grew up in Dil Doral',
-  trait: 'distinctive tattoo (mostly hidden under sleeve, "Oh, I\'ll tell you when you\'re older, lad/lass)',
+  trait: 'noticeably crooked teeth',
   instinct: 'locate a lost thing',
   knack: 'cooking',
   aspect: 'anxious to avoid going home',
@@ -160,7 +160,7 @@ module.exports = [
   associated: '',
   notes: 'Childhood obsession: horse girl. Ashamed of cowardly runaway brother. People say my hair is my best feature, but it distracts their attention from the rest of me, so I often keep it covered up. Attacked by worgs (p275) in childhood, so goblins go through extra security at the market.'
 }, {
-  name: 'Divari Simplefire',
+  name: 'Sibyl Starrunner',
   race: 'tiefling',
   pronouns: 'she/her',
   title: '',
@@ -174,7 +174,7 @@ module.exports = [
   image: 'https://i.pinimg.com/564x/9d/76/18/9d761827da559d9421bdf5f22a07387d.jpg',
   context: '',
   associated: '',
-  notes: 'Who has hurt me the most over the years and why do I deserve it? That would be my mother\'s mother; the hag just keeps hanging on! She\'s got such a sharp tongue. I mean, she\'s not wrong; I\'m the first Simplefire in 6 generations without an artistic bone in my body.'
+  notes: 'Who has hurt me the most over the years and why do I deserve it? That would be my mother\'s mother; the hag just keeps hanging on! She\'s got such a sharp tongue. I mean, she\'s not wrong; I\'m the first Starrunner in 6 generations without an artistic bone in my body.'
 }, {
   name: 'Janos Flatbinder',
   race: 'human',
@@ -189,8 +189,8 @@ module.exports = [
   voice: 'ghost of Xmas present (a large absent-minded spirit)',
   image: 'https://i.pinimg.com/564x/61/35/a5/6135a5eed223c8135b52c7bc2ccd139e.jpg',
   context: '',
-  associated: '',
-  notes: 'One of his main tasks is giving out a certain magicked oil: approved guild members get a certain amount, enough to soak into their weapons and some amount of their clothes; with this oil applied, one can effortlessly pass through the barrier beyond the Ulans'
+  associated: 'Ghorrg Loosemaw',
+  notes: ''
 }, {
   name: 'Nysbith Mistspark',
   race: 'dragonborn',
@@ -208,21 +208,21 @@ module.exports = [
   associated: '',
   notes: ''
 }, {
-  name: '',
-  race: '',
-  pronouns: '',
+  name: 'Ghorrg Loosemaw',
+  race: 'gnoll',
+  pronouns: 'he/him',
   title: '',
-  class: '',
+  class: 'fighter',
   description: '',
-  trait: '',
-  instinct: '',
-  knack: '',
-  aspect: '',
-  voice: '',
-  image: '',
+  trait: 'smells TERRIBLE',
+  instinct: 'Make friends',
+  knack: 'tongues (languages)',
+  aspect: 'cheery',
+  voice: 'neanderthal (one-syllable)',
+  image: 'https://i.pinimg.com/564x/f5/a0/7b/f5a07b8ba225da8ec7ab468e408f9d1a.jpg',
   context: '',
-  associated: '',
-  notes: ''
+  associated: 'Janos Flatbinder',
+  notes: 'One of his main tasks is giving out a certain magicked oil: approved guild members get a certain amount, enough to soak into their weapons and some amount of their clothes; with this oil applied, one can effortlessly pass through the barrier beyond the Ulans'
 }, {
   name: '',
   race: '',
