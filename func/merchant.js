@@ -8,7 +8,14 @@ const thisMerchant = []
 
 const generateMerchant = () => {
     thisMerchant.push(merchants[getRandomInt(merchants.length)])
+    // thisMerchant.push('****')
 }
 
 generateMerchant()
+// generateMerchant()
+// generateMerchant()
+// generateMerchant()
+// generateMerchant()
+// generateMerchant()
 console.log(thisMerchant)
+

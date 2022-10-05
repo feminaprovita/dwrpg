@@ -41,7 +41,7 @@ module.exports = [
   "horrible smoker\'s cough",
   "clears throat extra",
   "repeats every question asked of them before answering",
-  "hmmmms when thinking",
+  // "hmmmms when thinking",
   "speaks loudly (hard of hearing)",
   "speaks very quickly, nervous talker",
   "object subject switch (Yoda)",
