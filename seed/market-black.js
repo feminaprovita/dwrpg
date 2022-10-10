@@ -616,5 +616,6 @@
   "Curse Delivery Service - Do you really hate someone? Send them an item imbued with a minor curse! Try some of our favorites including incessant screaming inside of their head, a curse to make every food taste like something the recipient hates, and many more.",
   "Snilloc's Cold Storage - these ice wizards will keep your meat cold until you can sell it. Gentle repose is a specialty of theirs.",
   "Locksmiths - Need an arcane lock on your door? Need an alarm on your entrance hall? Need a glyph of warding on your safe? These wizards have got you covered.",
+  "Magic Smack - For a fee, this vendor will cast an untraceable magical smack in real time, on any target the customer has a piece of (hair, skin, finger, etc.). The smack does no damage, but in Common a rude disembodied voice says your choice of, 'You've been smacked!', 'That's what you get!', or 'Don't make me come back!",
   "Of course someone's selling that fancy oil the adventurers guild requires registration for, let you cut through the mountains...",
   "Exotic meats"]

@@ -256,22 +256,6 @@ module.exports = [
   associated: '',
   notes: ''
 }, {
-  name: 'Ramonde Greyeyes',
-  race: 'human',
-  pronouns: 'she/her',
-  title: '',
-  class: '',
-  description: 'sells food',
-  trait: '',
-  instinct: '',
-  knack: '',
-  aspect: '',
-  voice: '',
-  image: '',
-  context: '',
-  associated: '',
-  notes: ''
-}, {
   name: 'Milo Fireshine',
   race: 'human',
   pronouns: 'he/him',
