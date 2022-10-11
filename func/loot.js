@@ -2,6 +2,8 @@ const loot = require('../seed/loot')
 const gp = require('../seed/gp')
 const potions = require('../seed/potions')
 const market = require('../seed/market-black')
+const arrows = require('../seed/arrows')
+const drugs = require('../seed/drugs')
 // const paladin = require('../seed/paladin')
 
 // simple randomizer
@@ -12,6 +14,8 @@ let pile = []
 pile.push(loot)
 pile.concat(potions)
 pile.concat(market)
+pile.concat(arrows)
+pile.concat(drugs)
 // pile.concat(paladin)
 pile = pile[0]
 

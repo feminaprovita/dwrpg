@@ -1,5 +1,6 @@
-const market = require('../seed/market-black')
-const potions = require('../seed/potions')
+const market = require('../../seed/market-black')
+const potions = require('../../seed/potions')
+const drugs = require('../../seed/drugs')
 
 // simple randomizer
 const getRandomInt = max => Math.floor(Math.random() * Math.floor(max))
@@ -8,6 +9,7 @@ const getRandomInt = max => Math.floor(Math.random() * Math.floor(max))
 let inventory = []
 inventory.push(market)
 inventory.concat(potions)
+inventory.concat(drugs)
 inventory = inventory[0]
 
 const marketStop = []

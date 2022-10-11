@@ -1,4 +1,4 @@
-const merchants = require('../seed/merchants')
+const merchants = require('../../seed/merchants')
 
 // simple randomizer
 const getRandomInt = max => Math.floor(Math.random() * Math.floor(max))

@@ -341,7 +341,7 @@ module.exports = [
   pronouns: '',
   title: '',
   class: '',
-  description: 'sells a little bit of everything (wholesome)',
+  description: 'buys and sells extremely valuable magic items from adventurers',
   trait: '',
   instinct: '',
   knack: '',

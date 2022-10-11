@@ -1,4 +1,4 @@
-const potions = require('../seed/potions')
+const potions = require('../../seed/potions')
 
 // simple randomizer
 const getRandomInt = max => Math.floor(Math.random() * Math.floor(max))

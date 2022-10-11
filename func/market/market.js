@@ -1,5 +1,5 @@
-const market = require('../seed/market')
-const paladin = require('../seed/paladin')
+const market = require('../../seed/market')
+const paladin = require('../../seed/paladin')
 
 // simple randomizer
 const getRandomInt = max => Math.floor(Math.random() * Math.floor(max))
