@@ -1,10 +1,4 @@
 module.exports = [
-  "put loot here",
-  "Poison: Oil of Tagit. Dangerous, applied, 15 coins, 0 weight. The target falls into a light sleep.",
-  "Poison: Bloodweed. Dangerous, touch, 12 coins, 0 weight. Until cured, all damage the person inflicts is -1d4.",
-  "Poison: Goldenroot. Dangerous, applied, 20 coins, 0 weight. The target treats the next creature they see as a trusted ally, until proven otherwise.",
-  "Poison: Serpent’s Tears. Dangerous, touch, 10 coins, 0 weight. Anyone dealing damage against the target rolls with advantage.",
-  "Antitoxin. 10 coins, 0 weight. When you drink antitoxin, you’re cured of one poison affecting you.",
   "Dwarven Hardtack. Requires Dwarf, ration, 7 uses, 3 coins, 1 weight. Dwarves say it tastes like home. Everyone else says it tastes like home, if home is a hog farm, and on fire.",
   "Halfling Pipeleaf. 6 uses, 5 coins, 0 weight. When you share halfling pipeleaf with someone, expend two uses and take +1 forward to parley with them.",
   "Argo-Thaan, Holy Avenger. Close, 2 weight. Magic.... There are many swords in this world, but there is only one Argo-Thaan. It is a blade of gold, silver, and light, revered as a holy relic by all orders and religions for whom Good rings true. Its touch is a blessing and to many, the sight of it brings tears of joy. / In the hands of a paladin, it strikes true and strong. A paladin wielding it increases their damage die to d12 and has access to every paladin move. As well, Argo-Thaan can harm any creature of Evil, regardless of any defenses it may have (double damage, AP). No Evil creature may touch it without suffering agony. In the hands of any non-paladin, it is merely a sword, heavier and more cumbersome than most—it gains the awkward tag. / Argo-Thaan, while not intelligent, will forever be drawn to a cause of true Good, like iron to a magnet.",

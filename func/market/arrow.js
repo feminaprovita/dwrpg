@@ -1,4 +1,3 @@
-const { some } = require('../../seed/arrows')
 const arrows = require('../../seed/arrows')
 
 // simple randomizer

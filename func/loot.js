@@ -12,10 +12,10 @@ const getRandomInt = max => Math.floor(Math.random() * Math.floor(max))
 // this is a stupid way to add to the overall loot options, but it works, dammit
 let pile = []
 pile.push(loot)
-pile.concat(potions)
-pile.concat(market)
-pile.concat(arrows)
-pile.concat(drugs)
+// pile.concat(potions)
+// pile.concat(market)
+// pile.concat(arrows)
+// pile.concat(drugs)
 // pile.concat(paladin)
 pile = pile[0]
 
@@ -26,10 +26,11 @@ const generatePileOfLoot = (num) => {
   let n = 0
   while (n < num) {
     pileOfLoot.push(loot[getRandomInt(loot.length)])
+    pileOfLoot.push('***')
     n++
     }
-	pileOfLoot.push(gp[getRandomInt(gp.length)])
+	// pileOfLoot.push(gp[getRandomInt(gp.length)])
 }
 
-generatePileOfLoot(3)
+generatePileOfLoot(4)
 console.log(pileOfLoot)
