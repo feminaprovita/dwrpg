@@ -48,7 +48,7 @@ module.exports = ["A druid is in a field hosting a planting/farming class to pro
 "A prankster has started throwing illusions all over the city. Doors, manholes, and other such items are turning out to be illusory quite often as a result. The city watch is on constant guard for the perpetrator and will often poke and touch objects they're suspicious of while on duty.",
 "A noble invites the players to a house party. The noble, a female Dwarf named Bronsyl, wants the party to pretend they are her friends to impress the other nobles at the party.",
 "A child with an obvious injury begging for money pleads to the party for money. Later that day the party sees the same kid running around playing tag.",
-"A terrified ex-Warlock begs the party for help, their old patron sends shadow mastiffs after them every night to kill them. They have not slept in days. Killing the hounds doesn't stop them coming back the next night.",
+"A terrified ex-Warlock begs the party for help; their old patron sends shadow mastiffs after them every night to kill them. They have not slept in days. Killing the hounds doesn't stop them coming back the next night.",
 "A wealthy merchant offers to pay one of the PC to be the target of a special spell then get them selves arrested so that they can pass the spell effects to another prisoner. The merchant says they will also pay whatever the bail is, but will actually only pay up to 10gp.",
 "Two philosophers are having a debate by a street corner. They loudly discuss what does or doesn't constitute a 'Sandwich'. As the group walks by, the older of the two waves you over and asks your opinions on the matter.",
 "Some young men have stolen a large keg of what they think is ale. They are pushing it laboriously up a steep hill, joking and grunting from the effort. A few minutes later a frantic alchemist can be seen running around asking if anyone has seen a barrel of Alchemists Fire that has disappeared.",
@@ -67,6 +67,6 @@ module.exports = ["A druid is in a field hosting a planting/farming class to pro
 "A trio of goblins on each others shoulders, poorly disguised as a dragonborn (with papier-mâché head and tail) are attempting sell a variety of pies for 1 silver each. The pies are quite good and the goblins intend no harm, they however believe they are getting a great deal and will refuse to disclose the contents of the pies, quoting it's a trade secret.",
 "A well-dressed young man spontaneously combusts in the middle of the road. No one else seems to notice.",
 "A wealthy debutante has decided to leave her wealth behind and begin adventuring, and throws one last soiree before giving away her wealth. The PCs are invited.",
-"There is a game of (sport) going on in one of the cul-de-sacs as the Party passes by. The Party hears someone call out to them, they need extra players for each side.",
+"There is a game of stuntball going on in one of the cul-de-sacs as the Party passes by. The Party hears someone call out to them, they need extra players for each side.",
 // "The party uncovers a mini-unicorn fighting ring just outside of town. If they interfere.......",
 ]
