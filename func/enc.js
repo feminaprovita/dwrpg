@@ -6,9 +6,9 @@ const taverncounters = require('../seed/taverncounters')
 const getRandomInt = max => Math.floor(Math.random() * Math.floor(max))
 
 const randomizeEncounter = () => {
-    // return encounters[getRandomInt(encounters.length)]
+    return encounters[getRandomInt(encounters.length)]
     // return towncounters[getRandomInt(towncounters.length)]
-    return taverncounters[getRandomInt(taverncounters.length)]
+    // return taverncounters[getRandomInt(taverncounters.length)]
 }
 
 console.log(' ')

@@ -1,7 +1,7 @@
 module.exports = [
   "bad acne all over their face.",
 "their eyes squinted like they are looking into a bright light.",
-"has one more tattoo every time they show up in the story. This is never addressed by any other NPC who could know him.",
+"has one more tattoo every time they show up in the story. This is never addressed by any other NPC who could know them.",
 "luscious, carbon-black, long hair that extents beyond their own height. It is keep in a long braid. They haven’t cut it since birth.",
 "a face only a mother could love.",
 "a body build that appears both muscular and lanky.",
