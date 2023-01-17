@@ -1,10 +1,10 @@
 module.exports = [
-"Insects",
-"Insects",
-"Birds",
-"Birds",
-"Scavengers",
-"Scavengers",
+// "Insects",
+// "Insects",
+// "Birds",
+// "Birds",
+// "Scavengers",
+// "Scavengers",
 "Lightning",
 "Lightning",
 "Nobility",
@@ -21,7 +21,7 @@ module.exports = [
 "Anyone who has killed since the last solstice",
 "Anyone who has killed since the last full moon",
 "Anyone who has killed since the last rain storm",
-"Anyone who has killed since the last harvest)",
+"Anyone who has killed since the last harvest",
 "The kinship moiety opposite those holding the rites (eg, in a patrilineal culture, the priest’s mother’s brothers)",
 "Anyone who was born with a cleft lip",
 "Anyone who was born to a widow",
@@ -38,4 +38,5 @@ module.exports = [
 "Specific colors",
 "Specific cooked dish (e.g., chili, bread)",
 "Specific cooked dish (e.g., chili, bread)",
-"A deity worshiped by a party member"]
+// "A deity worshiped by a party member"
+]

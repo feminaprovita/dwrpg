@@ -110,7 +110,7 @@ module.exports = [
   "You turn into a marble figurine of yourself for 1d6 minutes.",
   "Any keratin on your body (hair, nails, feathers, some skin, horns, hooves, etc...) turns a vibrant hue.",
   "You are launched ten feet into the air and fall back down. Defy Danger +DEX or take 1d6 falling damage.",
-  "You turn into a massive oak tree.",
+  // "You turn into a massive oak tree.",
   "Your hair grows very rapidly (if male, this includes the beard). It grows to about 2meters length, and turns purple, green or blue.",
   "Bubbles sprout from your mouth every time you exale, for the next hour.",
   "Regardless of the amount of time that passes in game, you can see and hear all that happens in the real world surrounding your player for the next 1d6 minutes.",

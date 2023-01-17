@@ -41,7 +41,7 @@ module.exports = [
   "Gorgon: One time per long rest, on a successful hit with the weapon, the wielder may cast flesh to stone.",
   "Guide: If you throw this weapon in the air, it will always point North when it lands. This is useful for tracking your location, providing you with a +2 to ability checks made to avoid getting lost.",
   "Handling: This weapon ‘glues’ itself to your hand. You can never be disarmed while using this weapon.",
-  "Harpoon: The weapon can be thrown up to 60ft creating a magic cord between wielder and target. The wielder can spend an action to make a STR check to pull the target 25ft directly towards them. The wielder can also spend an action to pull themselves 25ft towards the target.",
+  // "Harpoon: The weapon can be thrown up to 60ft creating a magic cord between wielder and target. The wielder can spend an action to make a STR check to pull the target 25ft directly towards them. The wielder can also spend an action to pull themselves 25ft towards the target.",
   "Head Hunter: On a natural 20, the weapon beheads the target if they are lower than half health.",
   "Healing: While causing damage to your opponent, your damaging strike also has a 50% chance of healing you for 1d4 damage.",
   "Holy: You gain Protection from Evil while wielding.",

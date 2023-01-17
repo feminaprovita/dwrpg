@@ -11,14 +11,14 @@ const getRandomInt = max => Math.floor(Math.random() * Math.floor(max))
 const tavern = {}
 
 const generateTavern = () => {
-    console.log('https://www.dndspeak.com/tavern-generator/')
-    console.log('https://donjon.bin.sh/fantasy/inn/')
-    console.log('https://www.dndspeak.com/carousing-generator/)')
-    tavern.drink = drinks[getRandomInt(drinks.length)]
-    tavern.food = foods[getRandomInt(foods.length)]
+    // console.log('https://www.dndspeak.com/tavern-generator/')
+    // console.log('https://donjon.bin.sh/fantasy/inn/')
+    // console.log('https://www.dndspeak.com/carousing-generator/)')
+    // tavern.drink = drinks[getRandomInt(drinks.length)]
+    // tavern.food = foods[getRandomInt(foods.length)]
     tavern.boast = boasts[getRandomInt(boasts.length)]
-    tavern.encounter = enc[getRandomInt(enc.length)]
-    tavern.story = stories[getRandomInt(stories.length)]
+    // tavern.encounter = enc[getRandomInt(enc.length)]
+    // tavern.story = stories[getRandomInt(stories.length)]
 }
 
 generateTavern()
